@@ -73,14 +73,13 @@ Contributions are welcome. For small changes:
 
 If you'd like help with contributions guidelines or a template CONTRIBUTING.md, tell me what rules you want and I’ll create one.
 
-## License
-This project is open source. Replace with the license of your choice (e.g., MIT):
+
 
 MIT License — see LICENSE file.
 
 ## Contact
 Author: Karan Rajput (GitHub: Karan-Rajput-0019)  
-Email: (add your email)  
+Email: (3636karan@gmail.com)  
 Twitter / LinkedIn / Portfolio: (add links)
 
 ## Acknowledgements
@@ -90,9 +89,3 @@ Twitter / LinkedIn / Portfolio: (add links)
 
 ---
 
-Would you like me to:
-- Fill in your real name, bio, and live URL?
-- Add an example CSS file and basic styling?
-- Create a LICENSE file (MIT) and a simple CONTRIBUTING.md?
-
-Tell me which and I’ll generate the files.
